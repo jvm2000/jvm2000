@@ -1,4 +1,4 @@
-![](main.gif)
+![](lofi-girl.gif)
 
 <br><br>
 <h1>Hi! the name's John but you can also call me Ombik</h1>
