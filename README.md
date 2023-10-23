@@ -12,8 +12,6 @@ Hello, I am John Vincent Miñoza, a frontend developer primarily focused on Vue 
 
 - 👨‍💻 All of my projects are available at [currently working](currently working)
 
-- 📝 I regularly write articles on [NA](NA)
-
 - 💬 Ask me about **vue3, laravel, tailwind and ui designing**
 
 - 📫 How to reach me **minozajohnvincent2000@gmail.com**
